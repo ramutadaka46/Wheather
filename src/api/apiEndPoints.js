@@ -1,0 +1,1 @@
+export const GET_LOCATION_URL="https://geocoding-api.open-meteo.com/v1"
